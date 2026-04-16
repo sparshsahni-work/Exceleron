@@ -243,6 +243,3 @@ The frontend runs on `http://localhost:5173` and proxies API calls to `http://lo
 
 ---
 
-## License
-
-MIT
