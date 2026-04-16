@@ -3,7 +3,7 @@
 > Upload your Excel data. Generate stunning charts. Get AI-powered insights — instantly.
 
 ![Tech Stack](https://img.shields.io/badge/Stack-React%20%2B%20Node.js%20%2B%20MongoDB-informational)
-![AI](https://img.shields.io/badge/AI-Claude%20Sonnet-blue)
+![AI](https://img.shields.io/badge/AI-Insigths%-blue)
 ![Charts](https://img.shields.io/badge/Charts-2D%20%2B%203D-brightgreen)
 
 ---
